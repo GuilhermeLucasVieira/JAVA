@@ -1,0 +1,18 @@
+====================================================================================================================================================================
+Descrição
+=====================================================
+Programa desenvolvido com a intenção de ler um arquivo denominado in.txt.
+Esse arquivo conterá na sua primeira linha o numero de palavras que deverá conter em cada linha do arquivo out.txt.
+Na segunda linha contém um texto que deverá se organizado apartir dos critérios acima.
+====================================================================================================================================================================
+
+====================================================================================================================================================================
+O problema proposto segue abaixo para melhor análise.
+======================================================
+
+Dado um arquivo (obrigatoriamente chamado in.txt) contendo em sua primeira linha um inteiro positivo M maior que 0 e em sua segunda linha um texto, realizar a quebra de linha do texto sem quebrar palavras, considerando que a linha pode ter no máximo M caracteres. 
+
+O texto se encontra inteiro em uma linha do arquivo. O texto pode ser arbitrariamente longo, mas sempre terá pelo menos uma palavra. A resposta deve ser escrita em um arquivo texto obrigatoriamente denominado out.txt. 
+
+O problema pode ser resolvido em qualquer linguagem de programação que conte com uma IDE virtual disponível em http://www.tutorialspoint.com/codingground.htm, e deve compilar e rodar corretamente, produzindo o arquivo de saída com a resposta.
+====================================================================================================================================================================
